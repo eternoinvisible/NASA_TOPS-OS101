@@ -198,10 +198,10 @@ _Pregunta_
 
 ¿Cuál NO es una función del software de gestión de referencias?
 
-- Mantener la base de datos de los metadatos del artículo
-- Importar metadatos de artículos desde PDFs
-- Rastrear conjuntos de datos y versiones de software y DOIs
-- Crear resúmenes de artículos de investigación
+Mantener una base de datos de metadatos de artículos.
+Importar metadatos de artículos desde archivos PDF.
+Extraer o rastrear la información referida a la versión de software, los sets de datos relacionados y los DOI.
+Crear resúmenes de artículos de investigación.
 
 ## Crear resúmenes de artículos de investigación
 
